@@ -1,0 +1,56 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Homepage of Sam Silver</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<style>
+html {
+  background: white;
+}
+body {
+  background-image: url('hat3.png');
+/*  background-color: rgba(77,36,100,0.2);
+  background-blend-mode: lighten; */
+  margin: 30;
+  padding: 0;
+  background-size: contain;
+}
+h1 {
+    display: inline;
+}
+h3 {
+    display: inline;
+}
+h4 {
+    display: inline;
+}
+</style>
+</head>
+<body>
+<img src="me.jpeg" style="float: left; max-height: 30%; max-width:15%" align="middle" hspace="4%" vspace="2%" />
+<font size="5vw">
+<center>
+<h1>
+Hi, I'm Sam Silver
+</h1>
+<br>
+<h3>
+Welcome to my homepage!
+</h3>
+<br>
+<h4>
+Email: samuelsilver-at-umass-dot-edu
+</h4>
+</center>
+<p>
+A bit about me: I'm a passionate third-year pure mathematics major at UMass Amherst. Broadly speaking, I'm mainly interested in finding and understanding the geometric structure behind things, and using that geometric understanding to solve problems. I really enjoy algebraic topology, especially ideas related to homotopy, and I'm interested in learning about ways this can be applied to mathematical physics. In the same vein, I'm eager to learn more about (higher) category theory, and to build a basic familiarity with both algebraic and differential geometry.
+</p>
+Some links.
+<ul>
+<li> My <a href="Samuel_Silver_CV_Jan2025.pdf">curriculum vitae</a> (pdf download)
+<li> My <a href="https://www.linkedin.com/in/samuel-silver-514903226">Linkedin page</a>
+<li> <a href="https://people.math.umass.edu/~samuelsilver/CEM_DB.html">A database</a> of curve-enhanced matroids in search of a counterexample to the Fulton-Faber conjecture (work under the guidance of Jenia Tevelev) 
+<li> <a href="f2024_cat_notes.pdf">Notes</a> (pdf download) on monoidal categories and the Morita category construction, written for an independent study with Martina Rovelli
+</ul>
+</font>
+</body>
